@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class App 
+public class hw 
 {
     public static void main(String[] args) throws Exception
     {
